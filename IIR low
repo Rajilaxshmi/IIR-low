@@ -20,7 +20,7 @@ plot(w/pi,mag);
 grid;
 xlabel('normalized frequency');
 ylabel('magnitude in db');
-title('magnitude response(low pass filter'));
+title('magnitude response(low pass filter)');
 subplot(2,1,2);
 plot(w/pi,p);
 grid;
